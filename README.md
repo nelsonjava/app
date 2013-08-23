@@ -13,5 +13,5 @@ git remote add origin https://github.com/nelsonjava/app.git
 git push -u origin master
 
 Set up git:
-  git config --global user.name "Your Name"
+  git config --global user.name "naif"
   git config --global user.email nelsonjava@gmail.com
