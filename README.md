@@ -15,3 +15,4 @@ git push -u origin master
 Set up git:
   git config --global user.name "naif"
   git config --global user.email nelsonjava@gmail.com
+  ssh-keygen -t rsa -C "nelsonjava@gmail.com"
